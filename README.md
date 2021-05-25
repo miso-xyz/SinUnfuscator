@@ -24,5 +24,5 @@ Just Drag & Drop the protected file to clean it
 ![after](https://i.imgur.com/dvMgYSr.png)
 
 # Credits
-0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a>
+0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a></br>
 ZeptarTeam - <a href="https://github.com/ZeptarTeam/SaintFuscator">SaintFuscator</a>
