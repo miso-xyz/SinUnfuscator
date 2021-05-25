@@ -1,5 +1,5 @@
 # SinUnfuscator
-Basic Deobfuscator for SinUnfuscator
+Basic Deobfuscator for <a href="https://github.com/ZeptarTeam/SaintFuscator">SaintFuscator</a>
 
 # Protection Supported
 <pre>
@@ -19,4 +19,10 @@ Not Supported:
 Just Drag & Drop the protected file to clean it
 
 # Screenshot
+![before](https://i.imgur.com/pm5Z2WW.png)
 ![app](https://i.imgur.com/rZpii5W.png)
+![after](https://i.imgur.com/dvMgYSr.png)
+
+# Credits
+0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a>
+ZeptarTeam - <a href="https://github.com/ZeptarTeam/SaintFuscator">SaintFuscator</a>
