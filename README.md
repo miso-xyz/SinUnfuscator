@@ -23,6 +23,9 @@ Just Drag & Drop the protected file to clean it
 ![app](https://i.imgur.com/rZpii5W.png)
 ![after](https://i.imgur.com/dvMgYSr.png)
 
+# Control Flow cleaned with <a href="https://github.com/miso-xyz/CCFlow">CCFlow</a>
+![ccflow](https://i.imgur.com/zFBBFHe.png)
+
 # Credits
 0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a></br>
 ZeptarTeam - <a href="https://github.com/ZeptarTeam/SaintFuscator">SaintFuscator</a>
